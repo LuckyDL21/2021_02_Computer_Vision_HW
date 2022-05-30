@@ -1,0 +1,69 @@
+﻿  main.cpp
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(19,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(25,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(27,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(29,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(59,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(75,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(112,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(131,19): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(132,20): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(134,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(154,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(158,72): warning C4244: '인수': '_Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(158,54): warning C4244: '인수': '_Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(159,58): warning C4244: '인수': '_Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(159,40): warning C4244: '인수': '_Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(195,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(211,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(248,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(267,19): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(268,20): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(270,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(357,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(373,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(410,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(429,19): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(430,20): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(432,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(488,22): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(488,59): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(488,95): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(488,132): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(501,97): warning C4244: '+=': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(502,102): warning C4244: '+=': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(503,101): warning C4244: '+=': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Image_Rotation\main.cpp(504,102): warning C4244: '+=': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=uchar
+          ]
+  _2Image_Rotation.vcxproj -> C:\Users\pc\Downloads\Image_rotation_exercise_120210211_이지환\Debug\Image_Rotation.exe
